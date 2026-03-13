@@ -1,6 +1,6 @@
 # Unit Conversion Microservice
 
-Converts number from one unit to a different unit specified by user/client 
+Converts number from one unit to a different unit specified by client 
 
 ## Uses ZeroMQ
 Set up client like so:
